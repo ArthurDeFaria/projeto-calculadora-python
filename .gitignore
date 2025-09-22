@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações locais
+.env
+*.log
+
+# Diretórios comuns
+.idea/
+.vscode/
+
+*.txt
